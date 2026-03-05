@@ -1,0 +1,5 @@
+com\validation\post\controller\PostControllerTest.class
+com\validation\post\service\CategoryServiceTest.class
+com\validation\post\service\PostServiceTest.class
+com\validation\post\PostServiceApplicationTests.class
+com\validation\post\controller\CategoryControllerTest.class
